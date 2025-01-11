@@ -177,5 +177,12 @@ font-size: 20px;
     .home-left{
         width: :800px;
     }
+    .img{
+    position: absolute;
+    height: 25%;
+    padding: 40px;
+    border-radius: 100%;
+    border-color: 4px solid black;
+        
     
 }
