@@ -133,6 +133,9 @@ padding-left: 200px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
+.logos{
+    height:80px;
+}
 .contact{
     color:aqua;
     text-align: center;
