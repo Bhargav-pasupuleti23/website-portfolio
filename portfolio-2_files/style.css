@@ -22,7 +22,8 @@ background:linear-gradient( 260deg, blue, red);
 }
 .navs .a{
     color: aqua;
-    border: 2px solid white;
+    border: 5px solid aqua;
+    border-radius:50px;
     padding: 10px;
     margin: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
