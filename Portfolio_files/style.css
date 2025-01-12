@@ -116,12 +116,12 @@ padding-left: 200px;
 .skill{
     border: 5px solid skyblue;
     margin: 20px;
-    border-radius: 70px;
+    border-radius: 90px;
     padding: 20px;
     width: 90vw;
 }
 .skill:hover{
-    color: blueviolet;
+    color: black;
 }
 .skill-p{
     color:gold;
@@ -133,6 +133,8 @@ padding-left: 200px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
+.skill-h11:hover{
+    color:balck;
 .logos{
     height:80px;
 }
