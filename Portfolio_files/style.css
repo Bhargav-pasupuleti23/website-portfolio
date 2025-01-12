@@ -87,9 +87,6 @@ padding-left: 200px;
     border: 5px solid white;
     border-radius: 100%;
     rotate: 5deg;
-   
-    
-    
 }
 .skill-h1{
     color:greenyellow;
@@ -206,7 +203,6 @@ font-size: 20px;
 }
 .button:hover{
     color:wheat;
-
 }   
 @media screen (max-width:600px) {
     .home-left{
@@ -222,7 +218,6 @@ font-size: 20px;
     .PARA{
     padding: 20px;
     font-size: 5px;
-
 }
 .header-part{
 display: flex;
@@ -237,4 +232,4 @@ display: flex;
     margin: 30px;
 
 }
-}
+
